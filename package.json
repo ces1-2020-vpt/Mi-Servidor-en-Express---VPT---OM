@@ -1,0 +1,24 @@
+{
+  "name": "Mi-Servidor-en-Express-VPT",
+  "version": "1.0.0",
+  "description": "Mi primer servidor en express, hecho en repl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ces1-2020-vpt/Mi-Servidor-en-Express---VPT---OM.git"
+  },
+  "keywords": [],
+  "author": "Oscar Mesa y Pepito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ces1-2020-vpt/Mi-Servidor-en-Express---VPT---OM/issues"
+  },
+  "homepage": "https://github.com/ces1-2020-vpt/Mi-Servidor-en-Express---VPT---OM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
